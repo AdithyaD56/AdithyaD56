@@ -1,47 +1,62 @@
 # 💫 About Me:
+
 Passionate AI/ML enthusiast and Computer Science student focused on building intelligent, real-world solutions through machine learning, computer vision, and software development. Experienced in developing impactful projects in sustainability, renewable energy, and real-time detection systems using Python and modern AI technologies. Always exploring innovative ideas, prompt engineering, and scalable AI-driven applications.
 
 ---
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adithya-dvdm)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adithyadvdm456@gmail.com)
+# 🌐 Socials
 
----
+<p align="left">
+<a href="https://linkedin.com/in/adithya-dvdm">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-# 💻 Tech Stack:
-
-<!-- Keep your existing tech stack here -->
-<!-- Your current stack already looks amazing -->
-
----
-
-# 📊 GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdithyaD56&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" height="180em"/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdithyaD56&theme=tokyonight&hide_border=true" height="180em"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdithyaD56&theme=tokyonight&hide_border=true&layout=compact&langs_count=10" height="180em"/>
-  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AdithyaD56&theme=tokyonight" height="180em"/>
+<a href="mailto:adithyadvdm456@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 </p>
 
 ---
 
-# 📈 Real-Time Contribution Graph
+# 💻 Tech Stack
 
-[![Adithya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AdithyaD56&theme=tokyo-night&hide_border=true&area=true)](https://github.com/AdithyaD56)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge\&logo=c\&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge\&logo=javascript\&logoColor=%23F7DF1E)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge\&logo=go\&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge\&logo=react\&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge\&logo=next.js\&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge\&logo=node.js\&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge\&logo=django\&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge\&logo=TensorFlow\&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge\&logo=PyTorch\&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge\&logo=opencv\&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge\&logo=docker\&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge\&logo=kubernetes\&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge\&logo=firebase\&logoColor=ffcd34)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge\&logo=github\&logoColor=white)
 
 ---
 
 # 🐍 Contribution Snake Animation
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AdithyaD56/AdithyaD56/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/AdithyaD56/AdithyaD56/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AdithyaD56&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github"/>
+
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AdithyaD56&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -49,19 +64,21 @@ Passionate AI/ML enthusiast and Computer Science student focused on building int
 # ⚡ Detailed GitHub Analytics
 
 <p align="center">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AdithyaD56&theme=tokyonight"/>
+
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AdithyaD56&theme=tokyonight&utcOffset=5.5"/>
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdithyaD56&layout=compact&theme=tokyonight&hide_border=true&langs_count=10"/>
+</p>
+
+---
+
+# 📈 Contribution Details
+
+<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdithyaD56&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AdithyaD56&theme=tokyonight"/>
-  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AdithyaD56&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AdithyaD56&theme=tokyonight"/>
-  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AdithyaD56&theme=tokyonight&utcOffset=5.5"/>
 </p>
 
 ---
@@ -69,15 +86,15 @@ Passionate AI/ML enthusiast and Computer Science student focused on building int
 # 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AdithyaD56&theme=radical&no-frame=true&no-bg=true&margin-w=10&margin-h=10"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=AdithyaD56&theme=algolia&no-frame=true&margin-w=10&margin-h=10"/>
 </p>
 
 ---
 
-# 🔝 Top Contributed Repo
+# 🔥 GitHub Metrics
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=AdithyaD56&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=AdithyaD56&data=followers,repositories,stars,commits&theme=dark"/>
 </p>
 
 ---
@@ -98,36 +115,47 @@ Passionate AI/ML enthusiast and Computer Science student focused on building int
 
 ---
 
-# 🎵 Spotify Playing
+# ⚙️ Snake Animation Setup
 
-<p align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=true&bar_color=53b14f&bar_color_cover=true"/>
-  </a>
-</p>
+Create this file:
 
----
+`.github/workflows/snake.yml`
 
-# 🧠 LeetCode Stats
+```yaml
+name: Generate Snake
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Nunito&ext=contest"/>
-</p>
+on:
+  schedule:
+    - cron: "0 */12 * * *"
 
----
+  workflow_dispatch:
 
-# 🕹️ Coding Activity Graph
+jobs:
+  build:
+    runs-on: ubuntu-latest
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdithyaD56&theme=github_dark"/>
-</p>
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: AdithyaD56
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
----
+      - name: Push Snake Animation
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
 
-# 🚀 Profile Summary
+After pushing:
 
-<p align="center">
-  <img src="https://github-widgetbox.vercel.app/api/profile?username=AdithyaD56&data=followers,repositories,stars,commits&theme=dark"/>
-</p>
+1. Go to GitHub → Actions
+2. Enable workflows
+3. Run `Generate Snake`
+4. Snake animation becomes live automatically
 
 ---
