@@ -46,31 +46,23 @@ Passionate AI/ML enthusiast and Computer Science student focused on building int
 # 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AdithyaD56&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AdithyaD56&show_icons=true&theme=gruvbox&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800"/>
 
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AdithyaD56&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://streak-stats.demolab.com?user=AdithyaD56&theme=gruvbox&hide_border=true&ring=FFA500&fire=FFA500&currStreakLabel=FFA500"/>
 </p>
 
 ---
 
-# ⚡ Detailed GitHub Analytics
+# ⚡ GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AdithyaD56&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdithyaD56&layout=compact&theme=gruvbox&hide_border=true&langs_count=10"/>
 
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AdithyaD56&theme=tokyonight&utcOffset=5.5"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AdithyaD56&theme=gruvbox"/>
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdithyaD56&layout=compact&theme=tokyonight&hide_border=true&langs_count=10"/>
-</p>
-
----
-
-# 📈 Contribution Details
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdithyaD56&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdithyaD56&theme=gruvbox"/>
 </p>
 
 ---
@@ -78,7 +70,7 @@ Passionate AI/ML enthusiast and Computer Science student focused on building int
 # 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AdithyaD56&theme=algolia&no-frame=true&margin-w=10&margin-h=10"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=AdithyaD56&theme=gruvbox&no-frame=true&margin-w=8"/>
 </p>
 
 ---
