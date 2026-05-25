@@ -47,9 +47,9 @@ Passionate AI/ML enthusiast and Computer Science student focused on building int
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AdithyaD56&show_icons=true&theme=gruvbox&hide_border=true&count_private=true&include_all_commits=true"/>
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AdithyaD56&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
 
-<img width="49%" src="https://streak-stats.demolab.com?user=AdithyaD56&theme=gruvbox&hide_border=true&ring=ff9f1c&fire=ff9f1c&currStreakLabel=ff9f1c"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=AdithyaD56&theme=tokyonight&hide_border=true&ring=ff9f1c&fire=ff9f1c&currStreakLabel=ff9f1c"/>
 
 </p>
 
@@ -59,15 +59,9 @@ Passionate AI/ML enthusiast and Computer Science student focused on building int
 
 <p align="center">
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AdithyaD56&theme=gruvbox"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AdithyaD56&theme=tokyonight"/>
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AdithyaD56&theme=gruvbox"/>
-
-</p>
-
-<p align="center">
-
-<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdithyaD56&theme=gruvbox"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AdithyaD56&theme=tokyonight"/>
 
 </p>
 
@@ -76,7 +70,7 @@ Passionate AI/ML enthusiast and Computer Science student focused on building int
 # 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AdithyaD56&theme=gruvbox&no-frame=true&margin-w=8"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=AdithyaD56&theme=tokyonight&no-frame=true&margin-w=8"/>
 </p>
 
 ---
@@ -84,10 +78,8 @@ Passionate AI/ML enthusiast and Computer Science student focused on building int
 # 🔥 GitHub Metrics
 
 <p align="center">
-  <img src="https://github-widgetbox.vercel.app/api/profile?username=AdithyaD56&data=followers,repositories,stars,commits&theme=dark"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdithyaD56&theme=github-compact&hide_border=true&area=true"/>
 </p>
-
----
 
 # ✍️ Random Dev Quote
 
@@ -100,7 +92,7 @@ Passionate AI/ML enthusiast and Computer Science student focused on building int
 # 👀 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AdithyaD56&style=for-the-badge&color=blueviolet"/>
+  <img src="https://komarev.com/ghpvc/?username=AdithyaD56&style=for-the-badge&color=red"/>
 </p>
 
 ---
