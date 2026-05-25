@@ -46,9 +46,9 @@ Passionate AI/ML enthusiast and Computer Science student focused on building int
 # 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AdithyaD56&show_icons=true&theme=gruvbox&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AdithyaD56&show_icons=true&theme=gruvbox&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400"/>
 
-  <img height="180em" src="https://streak-stats.demolab.com?user=AdithyaD56&theme=gruvbox&hide_border=true&ring=FFA500&fire=FFA500&currStreakLabel=FFA500"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=AdithyaD56&theme=gruvbox&hide_border=true&ring=FFA500&fire=FFA500&currStreakLabel=FFA500"/>
 </p>
 
 ---
@@ -56,13 +56,13 @@ Passionate AI/ML enthusiast and Computer Science student focused on building int
 # ⚡ GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdithyaD56&layout=compact&theme=gruvbox&hide_border=true&langs_count=10"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AdithyaD56&theme=gruvbox"/>
 
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AdithyaD56&theme=gruvbox"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdithyaD56&layout=compact&theme=gruvbox&hide_border=true&langs_count=8"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdithyaD56&theme=gruvbox"/>
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdithyaD56&theme=gruvbox"/>
 </p>
 
 ---
